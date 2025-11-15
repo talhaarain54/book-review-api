@@ -1,0 +1,83 @@
+[
+  {
+    "isbn": "9780143126560",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "reviews": {
+      "alice": "A timeless fable about following your dream.",
+      "bob": "Beautifully written."
+    }
+  },
+  {
+    "isbn": "9780062316097",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "reviews": {
+      "carol": "Mind-blowing overview of human history."
+    }
+  },
+  {
+    "isbn": "9780307277785",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "reviews": {
+      "dan": "Very insightful book about human thinking."
+    }
+  },
+  {
+    "isbn": "9780439136365",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "reviews": {
+      "emma": "Magical and exciting!"
+    }
+  },
+  {
+    "isbn": "9781451673319",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "reviews": {
+      "frank": "A chilling dystopia."
+    }
+  },
+  {
+    "isbn": "9780316769488",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "reviews": {
+      "george": "A classic coming-of-age novel."
+    }
+  },
+  {
+    "isbn": "9780743273565",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "reviews": {
+      "helen": "A beautifully tragic story."
+    }
+  },
+  {
+    "isbn": "9781501125925",
+    "title": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "reviews": {
+      "ian": "A powerful story with emotional depth."
+    }
+  },
+  {
+    "isbn": "9780385472579",
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "author": "Robert M. Pirsig",
+    "reviews": {
+      "jack": "Philosophical and thought-provoking."
+    }
+  },
+  {
+    "isbn": "9781594633669",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "reviews": {
+      "kate": "Heartbreaking yet beautifully written."
+    }
+  }
+]
